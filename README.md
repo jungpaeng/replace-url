@@ -25,6 +25,6 @@ replaceUrl.replaceUrlPrams({ type: "home" });
 ```typescript
 import { replaceUrl, replaceUrlPrams } from "replace-url";
 
-replaceUrl.replaceUrl("url");
-replaceUrl.replaceUrlPrams({ type: "home" });
+replaceUrl("url");
+replaceUrlPrams({ type: "home" });
 ```
