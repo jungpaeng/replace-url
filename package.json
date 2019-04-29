@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/jungpaeng/replace-url.git",
   "author": "Im Yongbeen <meis1541@naver.com>",
-  "license": "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE"
+  "license": "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE",
+  "dependencies": {
+    "history": "^4.9.0"
+  }
 }
