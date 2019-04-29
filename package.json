@@ -7,7 +7,8 @@
   "author": "Im Yongbeen <meis1541@naver.com>",
   "license": "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE",
   "dependencies": {
-    "history": "^4.9.0"
+    "history": "^4.9.0",
+    "query-string": "^6.5.0"
   },
   "devDependencies": {
     "@types/history": "^4.7.2",
