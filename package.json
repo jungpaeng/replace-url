@@ -1,6 +1,6 @@
 {
   "name": "replace-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replace Url",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -16,6 +16,12 @@
     "tslint": "^5.16.0",
     "typescript": "^3.4.5"
   },
+  "keywords": [
+    "replace url",
+    "replace-url",
+    "replaceUrl",
+    "replace url without render"
+  ],
   "scripts": {
     "build": "tsc"
   }
