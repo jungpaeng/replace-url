@@ -1,12 +1,12 @@
-# replaceUrl
+# replace-url
 
 Replace Url without render
 
 ## Installation
 
 ```sh
-npm install mypluralize --save
-yarn add mypluralize
+npm install replace-url --save
+yarn add replace-url
 ```
 
 ## Usage
